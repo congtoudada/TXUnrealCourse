@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7B9544DE-4593-CFFF-1C7E-BB8A3783F068}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TXUnrealCourse",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
